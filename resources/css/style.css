@@ -1,0 +1,35 @@
+html, body {
+    background-color: black;
+    font-size: 21px;
+    text-align: center;
+}
+
+h1 {
+    color: white;
+    font-family: Verdana;
+
+}
+
+h1 .discover {
+    font-size: 2.38rem;
+}
+
+h1 #travel-guide {
+    font-weight: 300;
+    font-size: 2rem;
+}
+
+p {
+    font-family: Verdana;
+    font-size: 1rem;
+    color: gray;
+}
+
+a, a:link, a:visited {
+    color: aquamarine;
+    font-size: .76rem;
+}
+
+footer p {
+    text-align: right;
+}
